@@ -14,7 +14,7 @@ The 3 classes are-
 Each folder holds 2994 images of people that belong to such a labeled class.
 
 ### Python Libraries
-1. os: The os library provides a way to interact with the operating system and perform tasks related to file handling, directory management, and more. It allows you to navigate and manipulate files, directories, and paths on your computer.
+1. **os:** The os library provides a way to interact with the operating system and perform tasks related to file handling, directory management, and more. It allows you to navigate and manipulate files, directories, and paths on your computer.
 
 2. numpy: NumPy is a fundamental library for numerical computations in Python. It provides support for large, multi-dimensional arrays and matrices, along with a variety of mathematical functions to operate on these arrays efficiently.
 
